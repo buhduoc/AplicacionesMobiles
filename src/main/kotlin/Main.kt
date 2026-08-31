@@ -26,7 +26,7 @@ fun main() {
     val inventario = mutableListOf<Articulo>()
 
     val audifonos = Articulo(
-        codigo = "",
+        codigo = " ",
         nombre = "",
         categoria = "",
         precio = 0,
